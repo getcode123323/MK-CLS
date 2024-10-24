@@ -1,4 +1,4 @@
-# MK-CLS
+# ReAR
 ## I. Requirements
 
 - python 3.8
@@ -10,17 +10,17 @@
 - scikit-learn 0.22.2
 - cleanlab 0.1.1
 
-## II. Overview of MK-CLS
+## II. Overview of ReAR
 
 ## III.Introduction
 
-We proposed the MK-CLS model, which addressed the challenges of label inaccuracies and knowledge distribution bias. 
+We proposed the ReAR model, which addressed the challenges of label inaccuracies and knowledge distribution bias. 
 This was achieved in two parts: firstly, by utilizing confidence learning to remove app review noise and tackle label inaccuracies. 
 Then, the review oversampling component sampled the minority classes in the application reviews, addressing the issue of biased distribution in review knowledge.
 
 ## IV. Prepare Dataset
 
-The dataset already exists in the datasets directory of MK-CLS, with a total of two datasets: Maalej and Panichella.
+The dataset already exists in the datasets directory of ReAR, with a total of two datasets: Maalej and Panichella.
 Also, the labelling guide used for the Pinchella dataset can be found inside this folder.
 - **ARDOC.csv**: contains predictions of the ARDOC baseline generated from their Java tool.
 - **dim100*.txt**: Contains the word embeddings vectors, where each review is represented by a vector, the average of the individual word vectors.
