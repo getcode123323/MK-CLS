@@ -11,6 +11,7 @@
 - cleanlab 0.1.1
 
 ## II. Overview of ReAR
+![model3](https://github.com/user-attachments/assets/f2f8e66a-5503-4e64-80e0-e872b8e90d65)
 
 ## III.Introduction
 
